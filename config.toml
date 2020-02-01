@@ -1,0 +1,4 @@
+baseURL = "http://remmy.kerrigan.io/"
+languageCode = "en-us"
+title = "Remmy.Kerrigan.io"
+theme = "ananke"
